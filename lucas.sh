@@ -249,7 +249,7 @@ echo ""
 wget -O /var/www/index.html https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-ULTIMATE-NEW-FREE/master/Install/Panel_Web/index.html &> /dev/null
 mkdir /var/www/html
 cd /var/www/html
-wget https://www.dropbox.com/s/xi8vtfqv74czh87/PAINELWEB1.zip > /dev/null 2>&1
+wget https://www.dropbox.com/s/8gc4n5gme20nity/PAINELWEB1.zip > /dev/null 2>&1
 sleep 1
 unzip PAINELWEB1.zip > /dev/null 2>&1
 rm -rf PAINELWEB1.zip index.html > /dev/null 2>&1
